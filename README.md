@@ -7,10 +7,10 @@ Forward TF-Luna LIDAR sensor events over OSC, UDP, or Thingsboard.
 
 This code base has been developed by [ZKM | Hertz-Lab](https://zkm.de/en/about-the-zkm/organization/hertz-lab) as part of the project [»The Intelligent Museum«](#the-intelligent-museum). 
 
-Copyright (c) 2022 ZKM | Karlsruhe.
-Copyright (c) 2022 Dan Wilcox.
-Copyright (c) 2020 Daniel Heiss <heiss@zkm.de>
-Copyright (c) 2020 Marc Schütze <mschuetze@zkm.de>
+Copyright (c) 2022 ZKM | Karlsruhe.  
+Copyright (c) 2022 Dan Wilcox.  
+Copyright (c) 2020 Daniel Heiss <heiss@zkm.de>  
+Copyright (c) 2020 Marc Schütze <mschuetze@zkm.de>  
 
 BSD Simplified License.
 

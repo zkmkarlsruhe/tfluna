@@ -1,3 +1,7 @@
+1.0.1: 2022 Jul 26
+
+* fixed wrapper script string escaping 
+
 1.0.0: 2022 Mar 09
 
 initial version split out of museum-label project repo, version 1.1.0

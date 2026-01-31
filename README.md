@@ -1,16 +1,31 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zkmkarlsruhe/zkm-open-source/main/assets/zkm-logo-light.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zkmkarlsruhe/zkm-open-source/main/assets/zkm-logo.svg">
+    <img alt="ZKM" src="https://raw.githubusercontent.com/zkmkarlsruhe/zkm-open-source/main/assets/zkm-logo.svg" width="120">
+  </picture>
+</p>
+
 tfluna
 ======
+
+[![ZKM](https://img.shields.io/badge/ZKM-Karlsruhe-blue)](https://zkm.de)
+[![License: BSD-2-Clause](https://img.shields.io/badge/License-BSD--2--Clause-blue.svg)](LICENSE.txt)
+
+Part of [ZKM Open Source](https://github.com/zkmkarlsruhe)
+
+---
 
 ![tfluna icon](media/icon.png)
 
 Forward TF-Luna LIDAR sensor events over OSC, UDP, or Thingsboard.
 
-This code base has been developed by [ZKM | Hertz-Lab](https://zkm.de/en/about-the-zkm/organization/hertz-lab) as part of the project [»The Intelligent Museum«](#the-intelligent-museum). 
+This code base has been developed by [ZKM | Hertz-Lab](https://zkm.de/en/about-the-zkm/organization/hertz-lab) as part of the project [»The Intelligent Museum«](#the-intelligent-museum).
 
-Copyright (c) 2022 ZKM | Karlsruhe.  
-Copyright (c) 2022 Dan Wilcox.  
-Copyright (c) 2020 Daniel Heiss <heiss@zkm.de>  
-Copyright (c) 2020 Marc Schütze <mschuetze@zkm.de>  
+Copyright (c) 2022 ZKM | Karlsruhe.
+Copyright (c) 2022 Dan Wilcox.
+Copyright (c) 2020 Daniel Heiss.
+Copyright (c) 2020 Marc Schütze.
 
 BSD Simplified License.
 
